@@ -4,6 +4,9 @@ dosa
 chicken 
 biryani
 
+beans
+pizza
+
 thanks 
 final copy
 done my changes
