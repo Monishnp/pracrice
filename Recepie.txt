@@ -4,4 +4,7 @@ dosa
 chicken 
 biryani
 
+beans
+pizza
+
 thanks 
