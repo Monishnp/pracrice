@@ -1,3 +1,5 @@
 pasta 
 idle 
 dosa
+chicken 
+biryani
