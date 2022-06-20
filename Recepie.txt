@@ -14,7 +14,10 @@ thanks
 final copy
 done my changes
 two changes done just now
+<<<<<<< HEAD
 thanks once again 
 
 happy birthday
 advance
+=======
+>>>>>>> parent of 8726942 (thanks added)
