@@ -16,3 +16,6 @@ print(myname + " you will be " + str(int(myage) + 1) +  " after a year ")
 print('what is you height ?')
 height=input()
 print (" your height is "+ str(float(height)))
+
+monthsal=input()
+print("Annual pacakage is " + str(int(monthsal)*12))
